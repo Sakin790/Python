@@ -37,12 +37,6 @@ print(count1+count2) #300
 print(count1,count2)# 100 200
 
 
-# Global Variables
-"""
-Variables that are created outside of a function (as in all of the examples above) are known as global variables.
-Global variables can be used by everyone, both inside of functions and outside.
-"""
-
 item="I LOVE BANGLADESH" #Global Scope
 def myFun():
     item = "I LOVE BAN"  #Function Scope
