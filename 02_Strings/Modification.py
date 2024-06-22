@@ -38,3 +38,15 @@ txt = "Hello, welcome to my world."
 x = txt.find("welcome")
 print(x) #7
 print(txt.find("e")) #1
+
+
+
+age = 36
+score = 52
+txt = f"My name is John, I am {age} and my score is {score}"
+print(txt)
+
+age = 36
+score = 52
+txt = f"My name is John, I am {age:.4f} and my score is {score*2}"
+print(txt)
