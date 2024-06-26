@@ -14,4 +14,3 @@ print(score)
 
 # Clear => All clear 
 result = [1,3,4,5,6,6,6]
-clear()
