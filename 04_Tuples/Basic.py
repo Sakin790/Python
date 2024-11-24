@@ -10,4 +10,5 @@ Tuples are written with round brackets.
 3. Allow Duplicates
 
 """
-
+days=("Saunday","Monday")
+print(days[0])

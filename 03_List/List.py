@@ -26,4 +26,4 @@ print(listMix[1]) # 34
 
 # List declear via Constractor method
 constructor = list(("Sakin","Tamim"))
-print(type(constructor))
+print(type(constructor)) 

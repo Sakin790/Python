@@ -46,7 +46,7 @@ print(x[1]) # via index
 x = {"apple", "banana", "cherry"} # 2nd Bracket
 
 #Dictionary
-x = {"name" : "John", "age" : 36} # key value pair
+x = {"name" : "John", "age" : 36} # key value pair like object o
 
 #frozenset 
 tuple + set
