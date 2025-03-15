@@ -7,6 +7,5 @@ class SSl:
     def __init__(self,start=None):
         self.start=start
     def isEmpty(self):
-        if (self.start==None):
-            return "node is empty"
+        return self.start is None
         
