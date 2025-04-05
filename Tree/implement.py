@@ -4,3 +4,6 @@ class Node:
         self.left=left
         self.right=right
         
+class BST:
+    def __init__(self):
+        self.root=None 
